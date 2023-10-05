@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Hello Arc :) !
+          value: Hello Arc - hola :) !
